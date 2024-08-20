@@ -56,6 +56,7 @@ On the other hand, approving loans for applicants not likely to repay and at ris
 
 ## Technologies Used
 
+- Python
 - Pandas 
 - NumPy 
 - Seaborn
