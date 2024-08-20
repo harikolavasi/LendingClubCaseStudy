@@ -42,7 +42,6 @@ On the other hand, approving loans for applicants not likely to repay and at ris
   5. Month on which loan was applied
   6. Number of publicly recorded bankruptcies applied by the applicant
   7. Debt-to-income ratio of the customer
-- additional analysis
   8. Loan tenure to loan_status correlation
   9. Loan status and public bankruptcies of the applicant correlation
   10. Loan status and home ownership of the applicant correlation
