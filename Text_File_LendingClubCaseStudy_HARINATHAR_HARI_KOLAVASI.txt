@@ -1,1 +1,2 @@
 https://github.com/harikolavasi/LendingClubCaseStudy
+https://github.com/harikolavasi/LendingClubCaseStudy.git
